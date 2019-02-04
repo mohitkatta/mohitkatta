@@ -1,0 +1,14 @@
+com\niit\goshop\config\DBConfiguration.class
+com\niit\goshop\models\Suppliers.class
+com\niit\goshop\models\Category.class
+com\niit\goshop\dao\ProductDao.class
+com\niit\goshop\daoimpl\CategoryDaoImpl.class
+com\niit\goshop\daoimpl\UserDaoImpl.class
+com\niit\goshop\daoimpl\ProductDaoImpl.class
+com\niit\goshop\daoimpl\SuppliersDaoImpl.class
+com\niit\goshop\models\User.class
+com\niit\goshop\dao\SuppliersDao.class
+com\niit\goshop\dao\UserDao.class
+com\niit\goshop\dao\CategoryDao.class
+com\niit\goshop\models\Product.class
+com\niit\goshop\App.class
